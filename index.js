@@ -272,8 +272,15 @@ bio: Add 1-2 sentences (or use lorem ipsum)
 
 At the end, this function should return the new array with information added"*/
 
-function addArtist(/*Your Code Here*/){
-  /*Your Code Here*/
+function addArtist(object){
+   object = {
+    id: 99,
+    name: "Christopher",
+    years: 1978 - 2020,
+    genre: "Awesome sauce",
+    nationality: "Irish-American",
+    bio: "Tons of fun to be around."
+  }
   }
 
   
