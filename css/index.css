@@ -180,8 +180,12 @@ button:hover{
         width:100%;
         display:flex;
         justify-content:space-evenly;
-        padding: 0 20%;
+        padding: 0 25%;
         margin-top:5%;
+    }
+
+    nav a {
+        font-size: 2rem;
     }
 
     .homeBtn {
